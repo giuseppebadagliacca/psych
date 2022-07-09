@@ -1,0 +1,22 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button{
+  padding: 0 4px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
